@@ -45,10 +45,19 @@
 
 ## 📈 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragonm2001&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonm2001&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/dragonm2001">
+    <img src="https://github-readme-stats.vercel.app/api?username=dragonm2001&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/dragonm2001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonm2001&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dragonm2001&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dragonm2001&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 
 ## 🚀 Почему стоит следить за моим GitHub
 
