@@ -1,6 +1,6 @@
 # Привет! 👋 Я Дима
 
-## 👨‍💻 О себе
+👨‍💻 О себе
 Я веб-разработчик с глубоким интересом к созданию современных и эффективных веб-приложений. Мне 20 лет, и я окончил Санкт-Петербургское государственное бюджетное профессиональное образовательное учреждение Колледж Информационных Технологий (СПБ ГБПОУ КИТ) по специальности администратор баз данных. В настоящее время работаю преподавателем веб-разработки в этом же колледже.
 
 <p align="center">
@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://t.me/Dmitriy_Chemakin">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;
   <a href="https://vk.com/quirell2000">
-    <img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" height="40" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;
   <a href="mailto:dragonm2001@bk.ru">
-    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Mail_ru_logo.svg" alt="Email" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
