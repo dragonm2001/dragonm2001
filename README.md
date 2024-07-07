@@ -17,7 +17,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" height="40" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;
   <a href="mailto:dragonm2001@bk.ru">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Mail_ru_logo.svg" alt="Email" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail.ru_logo.png" alt="Email" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
