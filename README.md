@@ -61,13 +61,14 @@
 
 ## 📈 Статистика
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonm2001&theme=solarized_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonm2001&theme=solarized_dark" alt="Profile Details" style="width: 100%" />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dragonm2001&theme=solarized_dark" alt="Most Used Languages" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonm2001&theme=solarized_dark" alt="Repositories per Language" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonm2001&theme=solarized_dark" alt="Profile Stats" width="32%" />
 </p>
+
 
 
 
