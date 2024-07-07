@@ -68,6 +68,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonm2001&theme=solarized_dark" alt="Repositories per Language" width="33%" />
 </p>
 
+## 📊 CodeWars профиль
+
+<p align="center">
+  <a href="https://www.codewars.com/users/dragonm2001">
+    <img src="https://www.codewars.com/users/dragonm2001/badges/large" alt="CodeWars Badge" style="width: 100%">
+  </a>
+</p>
+
 
 
 
