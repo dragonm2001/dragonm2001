@@ -36,6 +36,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragonm2001&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonm2001&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=dragonm2001&style=flat-square&color=blue)
+
 ## 🚀 Почему стоит следить за моим GitHub
 
 На моем GitHub вы найдете проекты, в которых я применяю свои знания и навыки на практике. Я открыт для сотрудничества и всегда готов к новым вызовам и идеям. Если вы заинтересованы в совместной разработке или у вас есть интересные предложения, не стесняйтесь связаться со мной!
