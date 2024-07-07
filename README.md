@@ -62,10 +62,18 @@
 ## 📈 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dragonm2001&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonm2001&theme=solarized_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonm2001&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dragonm2001&theme=solarized_dark" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonm2001&theme=solarized_dark" alt="Repositories per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonm2001&theme=solarized_dark" alt="Profile Stats" />
 </p>
 
