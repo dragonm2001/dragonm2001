@@ -56,6 +56,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
+## 🔥 Лучшие проекты
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dragonm2001&repo=dragonm2001)](https://github.com/dragonm2001/dragonm2001)
+
 ## 📈 Статистика
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonm2001&theme=solarized_dark" alt="Profile Details" style="width: 100%" />
