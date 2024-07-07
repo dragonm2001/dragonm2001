@@ -1,6 +1,5 @@
 # Привет! 👋 Я Дима
 
-👨‍💻 О себе
 Я веб-разработчик с глубоким интересом к созданию современных и эффективных веб-приложений. Мне 20 лет, и я окончил Санкт-Петербургское государственное бюджетное профессиональное образовательное учреждение Колледж Информационных Технологий (СПБ ГБПОУ КИТ) по специальности администратор баз данных. В настоящее время работаю преподавателем веб-разработки в этом же колледже.
 
 <p align="center">
@@ -17,7 +16,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" height="40" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;
   <a href="mailto:dragonm2001@bk.ru">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail.ru_logo.png" alt="Email" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -64,9 +63,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonm2001&theme=solarized_dark" alt="Profile Details" style="width: 100%" />
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonm2001&theme=solarized_dark" alt="Profile Stats" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dragonm2001&theme=solarized_dark" alt="Most Used Languages" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonm2001&theme=solarized_dark" alt="Repositories per Language" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonm2001&theme=solarized_dark" alt="Profile Stats" width="33%" />
 </p>
 
 
