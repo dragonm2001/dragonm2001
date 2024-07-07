@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
----
+
 
 ### 🌐 Веб-технологии
 <p align="left">
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
----
 
 ### 📚 Библиотеки
 <p align="left">
@@ -42,7 +41,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
----
+
 
 ### 🛢️ Базы данных
 <p align="left">
@@ -51,7 +50,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
 </p>
 
----
+
 
 ### 🚀 Фреймворки
 <p align="left">
@@ -59,7 +58,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
----
 
 ### 🐳 Контейнеризация
 <p align="left">
