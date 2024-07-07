@@ -56,10 +56,10 @@
 ## 📈 Статистика
 
 <p align="center">
-  <a href="https://github.com/dragonm2001">
-    <img src="https://github-readme-stats.vercel.app/api?username=dragonm2001&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/dragonm2001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonm2001&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonm2001&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonm2001&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
