@@ -3,12 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=dragonm2001&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-<p align="center">
-  Веб-разработчик с глубоким интересом к созданию современных и эффективных веб-приложений. Мне 20 лет, и я окончил Санкт-Петербургское государственное бюджетное профессиональное образовательное учреждение Колледж Информационных Технологий (СПБ ГБПОУ КИТ) по специальности администратор баз данных. В настоящее время работаю преподавателем веб-разработки в этом же колледже.
-</p>
+Веб-разработчик с глубоким интересом к созданию современных и эффективных веб-приложений. Мне 20 лет, и я окончил Санкт-Петербургское государственное бюджетное профессиональное образовательное учреждение Колледж Информационных Технологий (СПБ ГБПОУ КИТ) по специальности администратор баз данных. В настоящее время работаю преподавателем веб-разработки в этом же колледже.
 
 ## 📞 Связаться со мной
 
+Связаться со мной можно с помощью социальных сетей или электронный почты:
 <p align="center">
   <a href="https://t.me/Dmitriy_Chemakin">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"/>
@@ -24,40 +23,28 @@
 ## 🛠️ Мой стек технологий
 
 ### 💻 Языки программирования
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-</div>
 
 ### 🌐 Веб-технологии
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-</div>
 
 ### 📚 Библиотеки
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-</div>
 
 ### 🛢️ Базы данных
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/303670/microsoft-sql-server-logo.svg" alt="MSSQL" width="50" height="50"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/>
 
 ### 🚀 Фреймворки
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
-</div>
 
 ### 🐳 Контейнеризация
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-</div>
 
 
 ## 🔥 Лучшие проекты
