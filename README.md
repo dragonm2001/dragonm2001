@@ -1,9 +1,9 @@
-<h1 align="center">Gривет, я Дима👋</h1>
+<h1 align="center">Привет, я Дима👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dragonm2001&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-Веб-разработчик с глубоким интересом к созданию современных и эффективных веб-приложений. Мне 20 лет, и я окончил Санкт-Петербургское государственное бюджетное профессиональное образовательное учреждение Колледж Информационных Технологий (СПБ ГБПОУ КИТ) по специальности администратор баз данных. В настоящее время работаю преподавателем веб-разработки в этом же колледже.
+<p align="center">Веб-разработчик с глубоким интересом к созданию современных и эффективных веб-приложений. Мне 20 лет, и я окончил Санкт-Петербургское государственное бюджетное профессиональное образовательное учреждение Колледж Информационных Технологий (СПБ ГБПОУ КИТ) по специальности администратор баз данных. В настоящее время работаю преподавателем веб-разработки в этом же колледже.</p>
 
 ## 📞 Связаться со мной
 
@@ -12,58 +12,53 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Dmitriy_Chemakin">Telegram</a> |
-  <a href="https://vk.com/quirell2000">VK</a> |
-  <a href="mailto:dragonm2001@bk.ru">Email</a>
+  <a href="https://t.me/Dmitriy_Chemakin">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/quirell2000">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href="mailto:dragonm2001@bk.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
 
 ## 🛠️ Мой стек технологий
 
 ### 💻 Языки программирования
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-
-
 ### 🌐 Веб-технологии
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
-
 ### 📚 Библиотеки
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
-
-
 ### 🛢️ Базы данных
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
 </p>
 
-
-
 ### 🚀 Фреймворки
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
-
 ### 🐳 Контейнеризация
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-
-
 
 ## 🔥 Лучшие проекты
 
@@ -86,8 +81,3 @@
     <img src="https://www.codewars.com/users/dragonm2001/badges/large" alt="CodeWars Badge" style="width: 100%">
   </a>
 </p>
-
-
-
-
-
